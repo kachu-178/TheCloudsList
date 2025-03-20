@@ -1,22 +1,40 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 108713343,
+    "name": "Wavely",
+    "author": "RedSkyGMD",
+    "creators": ["RedSkyGMD"],
+    "verifier": "OPEN VERIFICATION",
+    "verification": "https://youtu.be/fP1j4AkXy_Q?list=PLKtN1iYMI4KhqCao3tFglDK32Qwy1S0W0",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "idk",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "OPEN VERIFICATION",
+            "link": "https://youtu.be/fP1j4AkXy_Q?list=PLKtN1iYMI4KhqCao3tFglDK32Qwy1S0W0",
             "percent": 100,
-            "hz": 360
+            "hz": 120
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "OPEN VERIFICATION",
+            "link": "https://youtu.be/fP1j4AkXy_Q?list=PLKtN1iYMI4KhqCao3tFglDK32Qwy1S0W0",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "OPEN VERIFICATION",
+            "link": "https://youtu.be/fP1j4AkXy_Q?list=PLKtN1iYMI4KhqCao3tFglDK32Qwy1S0W0",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "OPEN VERIFICATION",
+            "link": "https://youtu.be/fP1j4AkXy_Q?list=PLKtN1iYMI4KhqCao3tFglDK32Qwy1S0W0",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "OPEN VERIFICATION",
+            "link": "https://youtu.be/fP1j4AkXy_Q?list=PLKtN1iYMI4KhqCao3tFglDK32Qwy1S0W0",
             "percent": 100,
             "hz": 120
         }
