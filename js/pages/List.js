@@ -123,6 +123,9 @@ export default {
                     <p>
                         You must have clicks/taps in the recording of the video
                     </p>
+                    <p>
+                        Levels must be equally hard or harder than the current Top 150 Challenge
+                    </p>
                 </div>
             </div>
         </main>
