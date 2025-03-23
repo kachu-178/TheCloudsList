@@ -1,55 +1,12 @@
 {
-    "id": 108541110,
-    "name": "Last Second",
-    "author": "TheReilLobim",
-    "creators": ["TheReilLobim"],
-    "verifier": "TheReilLobim",
-    "verification": "https://youtu.be/Byroq32nBOw",
+    "id": 116426342,
+    "name": "ZUC",
+    "author": "Redskygmd",
+    "creators": ["redskygmd"],
+    "verifier": "open verification",
+    "verification": "https://youtu.be/YtiYN-e93zc?si=DYyUbkPMwGu1R-0m",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "JoeBeSlow",
-            "link": "https://youtu.be/CV2pl9kpvws",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Illusion4z",
-            "link": "https://youtu.be/CV2pl9kpvws",
-            "percent": 100,
-            "hz": 60
-        },
-        {        
-            "user": "kachu178",
-            "link": "https://youtu.be/CV2pl9kpvws",
-            "percent": 100,
-            "hz": 60
-        },
-        {   
-            "user": "tgof",
-            "link": "https://youtu.be/CV2pl9kpvws",
-            "percent": 100,
-            "hz": 60
-        },
-        {    
-            "user": "FDeFran",
-            "link": "https://youtu.be/CV2pl9kpvws",
-            "percent": 100,
-            "hz": 60
-
-        },
-        {
-            "user": "Value1",
-            "link": "https://youtu.be/CV2pl9kpvws",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Therealfive",
-            "link": "https://youtu.be/wy9-wCumuso",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }            
